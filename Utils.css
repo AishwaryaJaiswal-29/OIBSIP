@@ -1,0 +1,25 @@
+/*  we make utils classes for reuse them agin and again  */
+
+.text-center{
+    text-align: center;
+  }
+  
+  .bg-black{
+    background: rgb(16, 6, 6);
+  }
+  
+  .mx-auto{
+    margin: auto;
+  }
+  
+  .flex{
+    display:flex;
+  } 
+  
+  .flex-col{
+    flex-direction: column;
+  }
+  
+  .items-center{
+    align-items: center;
+  }
